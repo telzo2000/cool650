@@ -6,4 +6,4 @@ cool650 is macro pad keyboard,
 and splite keyboard.
 <br>
 <br>
-![](https://twitter.com/0002ozlet/status/1473282364092870662/photo/1)
+
