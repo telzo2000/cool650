@@ -1,7 +1,7 @@
 {
     "name": "cool650",
     "vendorId": "0x4D43",
-    "productId": "0c0650 ",
+    "productId": "0x0650 ",
     "lighting": "qmk_rgblight",
     "matrix": { "rows": 8, "cols": 7 },
     "layouts": {
