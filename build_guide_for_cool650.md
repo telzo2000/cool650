@@ -19,10 +19,47 @@
 |10|MXスイッチ|PCB１枚につき25個||[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)等|1個で100円前後|
 |11|キーキャップ|PCB１枚につき25個||[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)|1個で100円前後<br>キーキャップセットで3000円程度から|
 |12|ゴム足|PCB１枚につき４個|任意|DIYショップ等|100円程度|
-|13|TRRSケーブル|１本|splite keyboardとして使用する時|[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)等|300円程度から|
-|14|マグネットコネクタ|１組|合体して使うのであれば|[Ali Express](https://ja.aliexpress.com/item/1005003150326343.html?spm=a2g0o.9042311.0.0.399f4c4dbOjNiU)|400円程度|
+|13|TRRSジャック|２本|splite keyboardとして使用する時|[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)等|１個55円（税込）|
+|14|TRRSケーブル|１本|splite keyboardとして使用する時|[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)等|300円程度から|
+|15|マグネットコネクタ|１組|合体して使うのであれば|[Ali Express](https://ja.aliexpress.com/item/1005003150326343.html?spm=a2g0o.9042311.0.0.399f4c4dbOjNiU)|400円程度|
 
+## 作り方
 
+### 1　基板の向きを決める
+PCB１枚を使用して、マクロパッドキーボードとして利用する場合は、pro micro設置部分が右側になるか、左側になるか、決定します。
+<br>
+PCBを２枚使用して、分割キーボードとして利用する場合は、左右それぞれの向きで作成してください。
+<br>
+<br>
 
+### 2 ダイオードの取り付け
+ダイオードをハンダ付けします。
+<br>
+全体で言えることですが、フラックスを使用してください。失敗を防げます。
+<br>
+写真ではリードタイプのダイオードのハンダ付けをしています。
+<br>
+SMDタイプのダイオードも使用できます。
+<br>
+ダイオードの向きに注意してください。
+ダイオードはPCBの下面に取り付けるようにしてください。
+<br>
+<br>
 
+### 3 スイッチソケットの取り付け
+スイッチソケットのハンダ付けをします。
+最初にPCBの片側のパッドに、予備ハンダをします。
+<br>
+次にスイッチソケットを乗せます。
+<br>
+ハンダゴテで、予備ハンダをした部分を温めて、ハンダ付けをします。
+<br>
+反対側のパッドとスイッチソケットの間にハンダを流し込むようにハンダ付けをします。
+<br>
+スイッチソケットの向きに注意してハンダ付けをしてください。
+スイッチソケットはPCBの下面に取り付けるようにしてください。
+<br>
+<br>
+
+### 4 リセットスイッチの取り付け
 
