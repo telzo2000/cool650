@@ -2,6 +2,9 @@
 
 <br>
 
+# Build Guide
+https://github.com/telzo2000/cool650/blob/main/build_guide_for_cool650.md
+
 ## What is a cool650?
 
 cool650 is macro pad keyboard,
