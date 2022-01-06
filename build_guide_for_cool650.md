@@ -20,7 +20,7 @@
 |11|キーキャップ|PCB１枚につき25個||[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)|1個で100円前後<br>キーキャップセットで3000円程度から|
 |12|ゴム足|PCB１枚につき４個|任意|DIYショップ等|100円程度|
 |13|TRRSケーブル|１本|splite keyboardとして使用する時|[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)等|300円程度から|
-|14|マグネットコネクタ|１組|合体して使うのであれば|Ali Express(https://ja.aliexpress.com/item/1005003150326343.html?spm=a2g0o.9042311.0.0.399f4c4dbOjNiU)|400円程度|
+|14|マグネットコネクタ|１組|合体して使うのであれば|[Ali Express](https://ja.aliexpress.com/item/1005003150326343.html?spm=a2g0o.9042311.0.0.399f4c4dbOjNiU)|400円程度|
 
 
 
