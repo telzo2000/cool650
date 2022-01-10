@@ -91,6 +91,7 @@ pro microのUSB端子や部品がPCBに干渉しないよう、PCBの一部が�
 <br>
 pro microの設置向きは、pro microの「RAW」の印字がPCBの外側にしてください。
 <br>
+<br>
 ＜ブレッドボードがある場合＞
 <br>
 取り付け方は次の手順になります。
