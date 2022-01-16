@@ -12,7 +12,7 @@
 |5|pro micro|PCB１枚につき１個|ピンヘッダが必要|[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)|750円程度|
 |6|スイッチプレート|１枚|アクリル|Elecrow|49.1ドル（送料込み）|
 ||ミドルプレート|４枚|アクリル|Elecrow|↑同じ|
-||ボトムプレート|１枚|アクリル|Elecrow|↑同じ|
+||ボトムプレート|３枚（大１、小２）|アクリル|Elecrow|↑同じ|
 |7|スイッチソケット|pcb１枚につき25個|MX|[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)|10個で165円（税込）|
 |8|ダイオード|pcb１枚につき25個|リードタイプ、SMDのどちらでも可|[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)|100個で220円（税込）|
 |9|リセットスイッチ|PCBにつき１個|タクタイルスイッチとも呼ばれる|[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)|1個で11円（税込）|
