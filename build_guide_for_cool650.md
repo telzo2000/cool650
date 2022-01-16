@@ -4,8 +4,8 @@
 
 |番号| 名前 | 数 | 備考 | 調達先の例 | 参考価格（送料込） |
 |:-|:-|:-|--|--|--|
-|1|PCB|1枚|macro pad|ALLPCB | ALLPCBの無料クーポンで５枚で０円|
-||PCB|2枚|splite keyboard|ALLPCB|ALLPCBの無料クーポンで５枚で０円|
+|1|PCB|1枚|macro pad|ALLPCB | ALLPCBの無料クーポンで５枚で０円<br>通常だと、26ドル|
+||PCB|2枚|splite keyboard|ALLPCB|ALLPCBの無料クーポンで５枚で０円<br>通常だと、26ドル|
 |2|M2ネジ|７本|６mm|DIYショップ等|10本程度で100円|
 |3|M2ネジ|３本|８mm|DIYショップ等|10本程度で100円|
 |4|M2スペーサー|PCB１枚につき５本|８mm|[ヒロスギネット](https://www.hirosugi-net.co.jp/shop/default.aspx)<br>[遊舎工房](https://shop.yushakobo.jp)等|20個で748円（税込）@ヒロスギネット|
