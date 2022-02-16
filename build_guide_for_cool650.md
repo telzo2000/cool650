@@ -10,7 +10,7 @@
 |3|M2ネジ|３本|８mm|DIYショップ等|10本程度で100円|
 |4|M2スペーサー|PCB１枚につき５本|８mm|[ヒロスギネット](https://www.hirosugi-net.co.jp/shop/default.aspx)<br>[遊舎工房](https://shop.yushakobo.jp)等|20個で748円（税込）@ヒロスギネット|
 |5|pro micro|PCB１枚につき１個|ピンヘッダが必要|[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)|750円程度|
-|6|スイッチプレート|１枚|アクリル|Elecrow|49.1ドル（送料込み）|
+|6|スイッチプレート|１枚|アクリル|Elecrow|５枚で49.1ドル（送料込み）|
 ||ミドルプレート|４枚|アクリル|Elecrow|↑同じ|
 ||ボトムプレート|３枚（大１、小２）|アクリル|Elecrow|↑同じ|
 |7|スイッチソケット|pcb１枚につき25個|MX|[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)|10個で165円（税込）|
