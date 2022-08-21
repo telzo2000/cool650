@@ -23,7 +23,7 @@
 |14|TRRSケーブル|１本|splite keyboardとして使用する時|[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)等|300円程度から|
 |15|マグネット付きコネクタ|１組|合体して使うのであれば|[Ali Express](https://ja.aliexpress.com/item/1005003150326343.html?spm=a2g0o.9042311.0.0.399f4c4dbOjNiU)|400円程度|
 |16|LED|２枚|任意<br>フルカラーシリアルLEDテープ 6個タイプ|[遊舎工房](https://shop.yushakobo.jp/collections/all-keyboard-parts/products/a01sl-00)|１枚550円|
-||||||
+|17|ロータリーエンコーダー|最大２個|任意<br>ver.1.1基板以降、<br>装着可能|[遊舎工房](https://shop.yushakobo.jp)<br>[TALP keyboard](https://talpkeyboard.net)等|400円程度から|
 
 
 
@@ -64,6 +64,14 @@ SMDタイプのダイオードも使用できます。
 スイッチソケットはPCBの下面に取り付けるようにしてください。
 <br>
 <br>
+
+### ◯オプション ロータリーエンコーダーの取り付け　
+ver.1.1以降の基板では、左右のPCBの一番内側に、キースイッチの代わりに、ロータリーエンコーダーを取り付けることができます。
+<br>
+その場合、cool650rとなります。
+<br>
+<br>
+
 
 ### 4 リセットスイッチの取り付け
 リセットスイッチ（タクタイルスイッチ）のハンダ付けをします。
@@ -172,11 +180,15 @@ cool650は一つでマクロパッドとして、二つで分割キーボード�
 この後に組み立てになりますと、ハンダの修正等が面倒になりますので、この時点で、導通の確認を必ずしてください。
 <br>
 REMAPに登録されていまので、次のサイトにアクセスすれば、ファームウェアの導入もスムーズにできます。
-
-https://remap-keys.app/catalog/ch6fui4FoHOMFDozhaye/firmware
 <br>
+[cool650の場合](https://remap-keys.app/catalog/ch6fui4FoHOMFDozhaye/firmware)
 <br>
 
+[ロータリーエンコーダー付きのcool650の場合（cool650r）]()
+<br>
+
+片手のみで、右手用マクロパッドとして利用する場合は、こちらのファームウェアを利用してください。<br>
+[右手用マクロパッドの場合（cool650half）](https://remap-keys.app/catalog/DK1eRhQSgAZz2aAV9A0r/firmware)
 
 ## 10 組み立て
 スイッチプレートの向きに注意して、５箇所にM2ネジ６mmを上面から挿しこみ、反対側からM2スペーサー８mmで固定してください。
