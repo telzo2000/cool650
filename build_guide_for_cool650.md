@@ -184,7 +184,7 @@ REMAPに登録されていまので、次のサイトにアクセスすれば、
 [cool650の場合](https://remap-keys.app/catalog/ch6fui4FoHOMFDozhaye/firmware)
 <br>
 
-[ロータリーエンコーダー付きのcool650の場合（cool650r）]()
+[ロータリーエンコーダー付きのcool650の場合（cool650r）](https://remap-keys.app/catalog/PqnhgvFviyU6LFA36Hg6/firmware)
 <br>
 
 片手のみで、右手用マクロパッドとして利用する場合は、こちらのファームウェアを利用してください。<br>
