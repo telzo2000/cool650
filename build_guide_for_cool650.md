@@ -190,6 +190,11 @@ REMAPに登録されていまので、次のサイトにアクセスすれば、
 片手のみで、右手用マクロパッドとして利用する場合は、こちらのファームウェアを利用してください。<br>
 [右手用マクロパッドの場合（cool650half）](https://remap-keys.app/catalog/DK1eRhQSgAZz2aAV9A0r/firmware)
 
+
+参考<br>
+
+https://github.com/telzo2000/Hello_keyboard/blob/main/readme_about_firmware.md
+
 ## 10 組み立て
 スイッチプレートの向きに注意して、５箇所にM2ネジ６mmを上面から挿しこみ、反対側からM2スペーサー８mmで固定してください。
 <br>
